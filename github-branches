@@ -1,0 +1,4 @@
+git branch -vv
+* bug-fix-revert 73df3f9 [origin/bug-fix-revert] Revert "Fix typo in README footer year"
+  bug-fix-typo   2698be2 [origin/bug-fix-typo] Fix typo in README footer year
+  main           2698be2 [origin/main] Fix typo in README footer year
