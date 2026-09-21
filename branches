@@ -1,0 +1,27 @@
+curl -s https://api.github.com/repos/ivanovertime/mcino-Introduction-to-Git-and-GitHub/branches
+[
+  {
+    "name": "bug-fix-revert",
+    "commit": {
+      "sha": "73df3f9110266c58e03ae4d57ec249ebc0cac83d",
+      "url": "https://api.github.com/repos/ivanovertime/mcino-Introduction-to-Git-and-GitHub/commits/73df3f9110266c58e03ae4d57ec249ebc0cac83d"
+    },
+    "protected": false
+  },
+  {
+    "name": "bug-fix-typo",
+    "commit": {
+      "sha": "2698be2ba34325832cb2771bb35332be5ac1fc05",
+      "url": "https://api.github.com/repos/ivanovertime/mcino-Introduction-to-Git-and-GitHub/commits/2698be2ba34325832cb2771bb35332be5ac1fc05"
+    },
+    "protected": false
+  },
+  {
+    "name": "main",
+    "commit": {
+      "sha": "2698be2ba34325832cb2771bb35332be5ac1fc05",
+      "url": "https://api.github.com/repos/ivanovertime/mcino-Introduction-to-Git-and-GitHub/commits/2698be2ba34325832cb2771bb35332be5ac1fc05"
+    },
+    "protected": false
+  }
+]
